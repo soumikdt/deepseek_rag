@@ -1,0 +1,4 @@
+LangChain is a Python framework designed to build applications with large language models. 
+It supports features like prompt templating, chaining, memory, and retrieval-augmented generation (RAG).
+
+Chroma is an open-source embedding database. It stores vector representations of documents and supports similarity search.
