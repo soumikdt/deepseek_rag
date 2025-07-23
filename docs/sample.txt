@@ -1,4 +1,50 @@
-LangChain is a Python framework designed to build applications with large language models. 
-It supports features like prompt templating, chaining, memory, and retrieval-augmented generation (RAG).
+Author: Aritra Bagchi
+I first heard ghost stories from Grandpa’s mouth. Back then, Grandpa and Grandma were our storytellers, our “narrative magicians.” From their lips flowed colorful tales, sparkling fields in the golden sunlight, fluttering like butterflies. In those stories, life didn’t seem monotonous, dry, or gray—it was full of wonder and rhythm. There wasn’t today’s rush or fragmentation; maybe that’s why stories could soak deeply into life’s nooks. Trust and compassion among people weren’t yet so easily lost! Even with quarrels, there was a grandeur, a generosity—not the petty breaths we take today. Those stories reflected the largeness of human life and living.
 
-Chroma is an open-source embedding database. It stores vector representations of documents and supports similarity search.
+When I was in Class VI or VII, life had no serious concerns. Under my parents’ care, the days flowed like watercolor. My maternal uncle’s house wasn’t far. Every summer, it was customary to stay there for a few days. Grandpa was still alive then, not yet physically frail. I remember him scolding my cousin brother, my uncle’s son, with a walking stick. Though he didn’t study far himself, he deeply respected education. I did well in school and he had a soft corner for me. My cousin wasn’t as serious about studies and so Grandpa would scold him. But after scolding, he’d bring milk mixed with sugar and pieces of soft bread. That bread had a taste I’ll never forget—after eating, my cousin would forget the insult.
+
+Grandpa was a great admirer of Netaji. He believed if Subhas had returned, the country wouldn’t be in such a miserable state. He disliked the word “miracle.” He mostly spoke of Netaji and the fight for freedom.
+
+Beside my uncle’s house were large jamun trees. Behind them was a big waterbody. At night, those trees appeared ghostly in the dark—I wouldn’t dare look. In daylight, they felt friendly. My cousin would skillfully make slingshots, and with those we’d pluck jamuns, wash them in the pond, sprinkle salt and eat them on Grandpa’s bed. Some days we’d pluck green mangoes and eat them with salt and chili powder.
+
+There were many trees on the embankment; the swing would be tied there. Then we’d roll down the slope to Uncle’s house. We’d sit around Grandpa, pleading, and sometimes he’d tell ghost stories. After sunset, holding oil lamps, we’d go out to the mango grove and the pond behind. Nowhere have I found such magical nights since growing up.
+
+Grandpa’s friend was from a village in Nadia’s Bagula. India had been free for three years. Grandpa had gotten a job in Kolkata in a textile mill. One day, Grandpa and a few others decided to visit this friend’s ancestral home during Kali Puja. Grandpa, originally from across the border (now Bangladesh), hadn’t seen much of this side of Bengal. He was eager.
+
+They went—Grandpa, his friends, and one I remember: Pranahir. The village’s name was Hatempur. One had to get off at Bagula and walk seven to eight kos more. They’d spend afternoons fishing with throw nets. Whatever they caught, they released again—what would they do with so many fish? The fields around were full of their paddy. It was clear they were not poor.
+
+Flowed beside Hatempur was the Churni River. On the riverbank in the evening, they’d secretly smoke tobacco. That’s how the days passed. One day, someone brought up the topic of supernatural happenings. Pranahir said there was an old mango orchard south of the village, known as Debabagan (God’s grove). It belonged to a family named Deb.
+
+Two sons of the Deb family had moved to Kolkata and made good money. After their father, Hirashankar Deb, died, they took their mother and left the village, never to return. The orchard, which was once lush, became abandoned. Years later, the younger brother, Kadarnath Deb, returned and asked his elder brother for a share in the orchard to build a hermitage. Hirashankar refused—he wanted to leave it to his sons. But Kadarnath cut down part of the grove and built a small hut, living there.
+
+Kadarnath never entered the inner house but respected his sister-in-law Uma deeply. From the house, food and fruit were sent to him twice a day. Because of her request, he lived there peacefully. Then villagers started talking: Kadarnath practiced some sort of occult rituals. At night, green light glowed in the grove, eerie whispers were heard, and even on still nights there were terrifying winds.
+
+One day, Kadarnath was found dead in the grove. His body had no flesh or bone—just skin like dried leaves. Since then, people avoided the orchard. Only because the village path passed by it would some cross in daylight—chanting names of gods.
+
+Two men once dared. One died soon after; another returned mentally disturbed. He became known as “Jalacharan,” a mad shepherd. No one crossed that grove again.
+
+Years later, a mysterious ascetic appeared at Churni’s edge, clad in saffron robes. He came to the Deb household and said: “When light and darkness mix, disaster happens. I warned Kadarnath—he didn’t listen. Now, purify the grove with sacred rites.”
+
+Hirashankar believed the curse would lift in a few years. But even after repeated rituals and warnings to villagers, nothing changed.
+
+One evening, our friend Aslam wanted to visit the grove. We were terrified. He insisted, and finally we agreed—he’d go, and we’d wait outside. He had to shout every now and then to assure us, and return in ten minutes.
+
+He went in with our flashlight like a warrior. At first, he shouted as agreed. Then silence. We called—no response. Suddenly, a blast of cold wind hit us. Then a foul, unnatural stench. The orchard felt suffocating. We were paralyzed with fear.
+
+After some time, Aslam emerged—walking oddly, face blank. He didn’t recognize us, didn’t speak, just walked away. Then, behind him, followed a tall, skinny, filthy man. None of us had ever seen him. A horrifying smell came from him. We froze.
+
+We ran toward them but both vanished. We searched but found nothing. Word spread. Aslam was found unconscious at the edge of the orchard. His right fingers were gone—eaten or melted. Blood mixed with mud. We took him home.
+
+He regained consciousness at dawn but never spoke again. His tongue was stiff and black.
+
+“Then? What happened next?” my cousin and I asked.
+
+Grandpa said: “We took Aslam back to Kolkata. He was from Dinajpur. We arranged to send him home. His parents were devastated. We had no face to show. Months later, we heard he was dead. His body had rotted while alive—first the tongue, then the whole body.”
+
+I asked: “And the tall, skinny man?” Grandpa whispered:
+
+“Who was he? I never knew. In 1953, a sage came to me in Kolkata and handed me a small tin box, saying: ‘As long as that grove exists, evil will remain. Spread this ash.’ Before I could ask anything, he vanished.”
+
+I stood there stunned, still holding that tin.
+
+
